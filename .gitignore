@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+_build/
+docs_python/_build/
+
+out/
+docs_js/
+
+docs_php/
+.phpdoc/
+
+venv/
+env/
